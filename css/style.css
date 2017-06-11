@@ -1,12 +1,17 @@
-h2 {
-
-}
-
 .navbar-custom {
-
+	background-color: #ffffff;
+	color: #000000;
+	min-height: 30px;
+	font-family: sans-serif;
 }
 
-.navbar-brand {
-
+.href {
+	color: #000000;
 }
 
+.navbar-brand-custom {
+	min-height: 30px;
+	font-size: 40px;
+	color: #000000;
+	font-family: 'Reem Kufi', sans-serif;
+}
