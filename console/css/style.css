@@ -444,7 +444,7 @@ p {
 }
 
 .logo{
-  padding-top: 1em;
+  padding-top: .5em;
   padding-left: 15px;
 
 }
@@ -455,9 +455,8 @@ header {
 }
 
 .user {
-  right: 50px;
+  padding-right: 15px;
   position: absolute;
-  padding: 2.5em;
   top: 0;
 }
 
