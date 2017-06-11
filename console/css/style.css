@@ -444,7 +444,7 @@ p {
 }
 
 .logo{
-  padding-top: .5em;
+  padding-top: 2em;
   padding-left: 15px;
 
 }
@@ -459,6 +459,10 @@ header {
   padding-right: 15px;
   position: absolute;
   top: 0;
+}
+
+.userpic {
+  padding-top: 2em;
 }
 
 img {
