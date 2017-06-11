@@ -445,6 +445,7 @@ p {
 
 .logo{
   padding-top: 1em;
+  height: 50px;
 }
 
 header {
@@ -457,5 +458,4 @@ header {
   position: absolute;
   padding: 2.5em;
   top: 0;
-  line-spacing: 20px;
 }
