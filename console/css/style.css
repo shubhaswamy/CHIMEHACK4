@@ -455,6 +455,7 @@ header {
 }
 
 .user {
+  right: 0;
   padding-right: 15px;
   position: absolute;
   top: 0;
