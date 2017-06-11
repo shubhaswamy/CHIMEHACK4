@@ -30,6 +30,10 @@ overflow: hidden;
   */
 }
 
+.write {
+  position: absolute;
+}
+
 .container {
   position: relative;
   /*
@@ -47,7 +51,7 @@ overflow: hidden;
   float: left;
   width: 37.6%;
   height: 100%;
-  border: 1px solid #ffffff;
+
   background-color: #fff;
 }
 .container .left .top {
@@ -440,5 +444,18 @@ p {
 }
 
 .logo{
-  padding: 2em;
+  padding-top: 1em;
+}
+
+header {
+  height: 6em;
+  margin: 0 auto;
+}
+
+.user {
+  right: 50px;
+  position: absolute;
+  padding: 2.5em;
+  top: 0;
+  line-spacing: 20px;
 }
