@@ -20,6 +20,10 @@ header {
     /* border-bottom: 1px solid lightgray; */
 }
 
+.typeform-widget {
+    padding-top: 100px;
+}
+
 div {
     padding: 45px;
     width: 70%;
